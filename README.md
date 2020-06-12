@@ -6,7 +6,7 @@ This is a simple package to form json response easily.
 ```python
 from eresponse import new_success_message, new_error_message
 
-def route():
+def example():
     try:
         res = {
             "key": 1
@@ -18,7 +18,7 @@ def route():
 
 What it looks like in response
 
-###Success
+### Success
 ```json
 {
   "ok": true,
@@ -30,7 +30,7 @@ What it looks like in response
 
 ```
 
-###Error
+### Error
 ```json
 {
   "ok": false,

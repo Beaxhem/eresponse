@@ -8,7 +8,7 @@ setup(
     name='EResponse',
     version='1.0',
     packages=['eresponse'],
-    url='github.com/Beaxhem/eresponse',
+    url='http://github.com/Beaxhem/eresponse',
     license="mit",
     author='beaxhem',
     author_email='senchukov02@gmail.com',
